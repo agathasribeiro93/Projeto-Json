@@ -1,0 +1,73 @@
+{    "Alunos": [
+        {
+            "id": 1,
+            "nome": "Rodrigo",
+            "Idade": "28"
+        },
+       { "id": 2,
+            "nome": "Breno",
+            "Idade": "26"
+        },
+        {
+            "id": 3,
+            "nome": "Jessica",
+            "Idade": "18"
+        }
+
+        {
+            "id": 4,
+            "nome": "Kelly",
+            "Idade": "22"
+        }
+    ],
+    "Professores":[
+        { "id": 1,
+            "nome": "Jonathan",
+            "Idade": "29"
+        },
+
+        {
+            "id": 2,
+            "nome": "Sergio",
+            "Idade": "60"
+         },
+
+        {
+            "id": 3,
+            "nome": "Ana",
+            "Idade": "32"
+        }
+
+        {
+            "id": 4,
+            "nome": "Maria",
+            "Idade": "24"
+        }
+    ],
+
+    "Funcionarios":[
+        { "id": 1,
+            "nome": "Flavio",
+            "Idade": "35"
+        },
+
+        {
+            "id": 2,
+            "nome": "Lidiane",
+            "Idade": "40"
+         },
+
+        {
+            "id": 3,
+            "nome": "Pamela",
+            "Idade": "35"
+        }
+       
+        {
+            "id": 4,
+            "nome": "Pedro",
+            "Idade": "24"
+        }
+    ]
+
+}
